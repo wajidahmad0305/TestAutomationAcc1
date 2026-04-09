@@ -1,4 +1,4 @@
-package com.bootcampexcercise.module2.sample;
+package com.bootcampexcercise.module2.activity;
 
 /**
  * @author wajid

@@ -1,4 +1,4 @@
-package com.bootcampexcercise.modul2;
+package com.bootcampexcercise.module2;
 
 public class MainActivity {
     public static void main(String[] args) {
