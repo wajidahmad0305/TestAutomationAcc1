@@ -1,4 +1,4 @@
-package com.bootcampexcercise.module3.activity;
+package com.bootcampexcercise.module3;
 
 // Calculator.java
 // Logic class that performs basic arithmetic operations

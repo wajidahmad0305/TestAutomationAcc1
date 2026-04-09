@@ -1,4 +1,4 @@
-package com.bootcampexcercise.module5.activity;
+package com.bootcampexcercise.module5;
 
 // InheritanceActivity.java
 // ============================================

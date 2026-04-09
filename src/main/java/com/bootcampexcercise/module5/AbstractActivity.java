@@ -1,7 +1,7 @@
 // AbstractActivity.java
 // Demonstrates Abstract Classes using Shape, Rectangle and Circle
 
-package com.bootcampexcercise.module5.activity;
+package com.bootcampexcercise.module5;
 
 // ============================================
 // ABSTRACT CLASS - Shape
